@@ -1,0 +1,5 @@
+
+change directory to c ---- cd C:/
+to go to folder -- cd 
+next go to folder ---- cd C:\Users\veres\Desktop\Website_Design
+then run the python with streamlit ---- > streamlit run app.py
